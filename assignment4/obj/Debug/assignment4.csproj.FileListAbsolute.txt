@@ -1,0 +1,6 @@
+c:\users\ahmet_000\documents\visual studio 2013\Projects\assignment4\assignment4\bin\Debug\assignment4.exe.config
+c:\users\ahmet_000\documents\visual studio 2013\Projects\assignment4\assignment4\obj\Debug\assignment4.csprojResolveAssemblyReference.cache
+c:\users\ahmet_000\documents\visual studio 2013\Projects\assignment4\assignment4\bin\Debug\assignment4.exe
+c:\users\ahmet_000\documents\visual studio 2013\Projects\assignment4\assignment4\bin\Debug\assignment4.pdb
+c:\users\ahmet_000\documents\visual studio 2013\Projects\assignment4\assignment4\obj\Debug\assignment4.exe
+c:\users\ahmet_000\documents\visual studio 2013\Projects\assignment4\assignment4\obj\Debug\assignment4.pdb
